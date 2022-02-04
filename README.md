@@ -31,6 +31,6 @@ Hold down the left grip button to activate the menu (NoClip and Super Monkey go 
 
 # How to install
 1. Use Monke Mod Manager to install bepinex and other libraries. (i reccomend installing all of them)
-2. once that is done installing find where the gorilla tag files are, go to ```Bepinex/plugins``` and put the zip/rar file in to the folder
+2. once that is done installing find where the gorilla tag files are, go to (Oculus/Meta Quest)```another-axiom-gorilla-tag/BepInEx/plugins``` or (SteamVR)```steamapps/common/Gorilla Tag/BepInEx/plugins```  depending on where you are playing the game and put the zip/rar file in to the folder
 3. Unzip the rar/zip file, take the mods out of the folder named "PBBVPAK" 
 4. Boot up your game and return to monke (with superpowers)
