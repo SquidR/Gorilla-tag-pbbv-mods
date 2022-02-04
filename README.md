@@ -14,10 +14,11 @@ This mod pack contains
 Change the name_config.txt file to whatever you would like it to say, the number at the top is how fast the name changes (20 - 999)
 (ex.
   file has:
-  "Pbbv"
-  "pBbv"
-  "pbBv"
-  "pbbV"
+  "20
+  Pbbv
+  pBbv
+  pbBv
+  pbbV"
   the mod will change your name in the order you set the names at at speed of 20)
 
 - NoClip
